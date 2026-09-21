@@ -2,8 +2,8 @@
 
 ## 1. Identificação
 
-**Aluno:** RAYKA LETICIA MUNIZ DOS SANTOS  
-**Disciplina:** ALGORITIMOS E PENSAMENTO COMPUTACIONAL  
+**Aluno:** Rayka Leticia Muniz Dos Santos  
+**Disciplina:** Algoritimos e Pensamento Computacional  
 **Professora:** Profa. Karla Sartin  
 **Título do projeto:** Sistema de Monitoramento de Temperatura
 
